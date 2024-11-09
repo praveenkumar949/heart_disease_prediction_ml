@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart Disease Prediction Using machine learning models
 Heart disease is one of the leading causes of death globally. This project aims to build machine learning models that can predict the presence of heart disease based on various health metrics, assisting in early diagnosis and effective treatment.
 
 ## Objectives

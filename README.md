@@ -39,4 +39,5 @@ The target variable indicates the presence of heart disease (1: Present, 0: Not 
 | Random Forest           | 84           |
 | Support Vector Machine  | 87           |
 ## Model Training and Evaluation
-Each model was trained on the training set, and predictions were made on the testing set. Accuracy and classification reports were generated to assess model performance.
+Each model was trained on the training set, and predictions were made on the testing set. Accuracy and classification reports were generated to assess model performance.  
+**Code Link:** https://colab.research.google.com/drive/16aX7LxONMXHn-vKUlb1eTwJAJGgBsLSd?usp=sharing

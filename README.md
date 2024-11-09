@@ -37,7 +37,9 @@ The target variable indicates the presence of heart disease (1: Present, 0: Not 
 |-------------------------|--------------|
 | Logistic Regression     | 85           |
 | Random Forest           | 84           |
-| Support Vector Machine  | 87           |
+| Support Vector Machine  | 87           |  
+
+![Screenshot 2024-11-09 133710](https://github.com/user-attachments/assets/4cc4f3fd-9174-404d-94bb-feb297f133cf)
 ## Model Training and Evaluation
 Each model was trained on the training set, and predictions were made on the testing set. Accuracy and classification reports were generated to assess model performance.  
 **Code Link:** https://colab.research.google.com/drive/16aX7LxONMXHn-vKUlb1eTwJAJGgBsLSd?usp=sharing
